@@ -1,3 +1,10 @@
 #!/usr/bin/env node
 
-console.log('starblink cli hello world')
+const commander = require('commander')
+const pkg = require('../package.json')
+
+const program = commander.program
+
+program
+.version(pkg.version)
+.parse(process.argv)
