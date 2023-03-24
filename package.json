@@ -1,7 +1,10 @@
 {
-  "name": "vue-cli",
+  "name": "starblink-cli",
   "version": "1.0.0",
-  "description": "vue 脚手架",
+  "description": "starblink 脚手架",
+  "bin": {
+    "starblink": "bin/index.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "test"
