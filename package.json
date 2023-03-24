@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli",
+  "version": "1.0.0",
+  "description": "vue 脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noya-oneone/vue-cli.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli"
+  ],
+  "author": "Noya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noya-oneone/vue-cli/issues"
+  },
+  "homepage": "https://github.com/Noya-oneone/vue-cli#readme"
+}
