@@ -1,3 +1,3 @@
-#!/usr/bin env node
+#!/usr/bin/env node
 
-console.log('hhhh')
+console.log('starblink cli hello world')
