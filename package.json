@@ -1,6 +1,6 @@
 {
   "name": "starblink-cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "starblink 脚手架",
   "bin": {
     "starblink": "bin/index.js"
